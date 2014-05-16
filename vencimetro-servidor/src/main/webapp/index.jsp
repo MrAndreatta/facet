@@ -1,8 +1,8 @@
 <html>
 <head>
-	<title>VRaptor Scaffold Project</title>
+	<title>Vencimetro</title>
 </head>
 <body>
-	It works!!
+	Base para o projeto vencimetro!
 </body>
 </html>
